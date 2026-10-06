@@ -3,5 +3,5 @@ module adder(
     input [3:0] b,
     output [4:0] sum
 );
-    assign sum = a + b;
+    assign sum = a + b; //adder
 endmodule
